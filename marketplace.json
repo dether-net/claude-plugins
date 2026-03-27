@@ -1,0 +1,9 @@
+{
+  "name": "dether.net",
+  "owner": { "name": "dether.net" },
+  "plugins": [{
+    "name": "dethereal",
+    "source": { "source": "npm", "package": "@dether.net/dethereal" },
+    "description": "AI-integrated threat modeling plugin for Claude Code"
+  }]
+}
